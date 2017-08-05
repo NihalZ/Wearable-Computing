@@ -1,7 +1,7 @@
 ## Code Book
 
 # Mean and Standard Deviation Measurement Variables
-[3] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
+[3] "tBodyAcc-mean()-X"                "tBodyAcc-mean()-Y"              
  [5] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
  [7] "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
  [9] "tGravityAcc-mean()-X"            "tGravityAcc-mean()-Y"           
@@ -42,7 +42,7 @@
 [79] "fBodyBodyGyroJerkMag-mean()"     "fBodyBodyGyroJerkMag-std()"     
 [81] "fBodyBodyGyroJerkMag-meanFreq()"
 
-#Other Variables
+# Other Variables
 - Subject: represents the if the individuals who conducted the tests
 - Activity_Type: represents the type of the test made while collecting the data. It has 6 potential values
       WALKING: 1
